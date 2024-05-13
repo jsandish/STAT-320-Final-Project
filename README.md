@@ -1,4 +1,7 @@
 # Analysis of Factors Influencing Self-Perceived Quality of Life
+## Overview
+This project utilizes the language R to conduct data analysis.
+
 ## Abstract
 This project delves into understanding the factors influencing self-perceived quality of life using data from the General Social Survey (GSS) for adults in the United States in 2021. The goal was to construct a multi-linear regression model and draw inferences about how individuals rank themselves within society based on socioeconomic factors. Backwards elimination was utilized to refine predictor variables, leading to a final model that includes marital status, education level, and income. While the model meets the Independence condition for inference, it's crucial to note its limitations in predicting self-ranking values for individuals outside the United States or beyond 2021.
 
